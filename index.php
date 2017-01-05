@@ -1,3 +1,3 @@
 <?PHP
-	echo "Hello Digital Academy";
+	echo "Hello Digital Academy DA";
 ?> 
