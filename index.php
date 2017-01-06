@@ -1,5 +1,6 @@
 <?PHP
 	echo "Hello Digital Academy";
+<<<<<<< HEAD
 
    class Product {
     var $name;
@@ -11,4 +12,8 @@
         }
     }
 }
+=======
+    echo"The DA":
+  echo"Im done"
+>>>>>>> 8eae41b716e94d2e8354eba22578ea7af0124584
 ?> 
